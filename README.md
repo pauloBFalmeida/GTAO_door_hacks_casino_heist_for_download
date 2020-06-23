@@ -2,6 +2,7 @@
 Welcome to the door hack script, please read this entire file first before using
 If you feel uncomfortable using the .exe and prefer the .ahk and .py, please go to my other repository
 https://github.com/pauloBFalmeida/GTAO_finger_print_script
+(this folder corresponds to the 'Download' folder from the other repository)
 
 # Keys
 shift + F1: enter the response to the finger print
@@ -19,7 +20,7 @@ shift + ESC: kills the application (this script, not the game)
 
 # Files Needed
 You only need the 'doorHack.exe' and the 'answer' folder to be in the same directory, so keep them together
-After you confirm that the script is working feel free to delete the fixingProblems folder
+After you confirm that the script is working feel free to delete the fixingProblems folder and the 'doorHackTest.exe'
 
 # Setup 
 Test the script before using in the heist.
